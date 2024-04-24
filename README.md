@@ -35,6 +35,7 @@ Firmware binaries can be downloaded from http://ota.tasmota.com/tasmota/release/
 [![Download Dev](https://img.shields.io/badge/download-development-yellow.svg)](http://ota.tasmota.com/tasmota/)
 [![Tasmota CI](https://github.com/arendst/Tasmota/actions/workflows/build_all_the_things.yml/badge.svg)](https://github.com/arendst/Tasmota/actions/workflows/build_all_the_things.yml)
 [![Build_development](https://github.com/arendst/Tasmota/actions/workflows/Tasmota_build_devel.yml/badge.svg)](https://github.com/arendst/Tasmota/actions/workflows/Tasmota_build_devel.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FassemelmansiVultara%2FTasmota.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FassemelmansiVultara%2FTasmota?ref=badge_shield)
 
 See [CHANGELOG.md](CHANGELOG.md) for detailed change information.
 
@@ -171,3 +172,5 @@ People helping to keep the show on the road:
 ## License
 
 This program is licensed under GPL-3.0
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FassemelmansiVultara%2FTasmota.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FassemelmansiVultara%2FTasmota?ref=badge_large)
